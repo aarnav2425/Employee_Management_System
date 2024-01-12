@@ -11,7 +11,7 @@
 	</parent>
 	
 	<groupId>com.luv2code.springboot</groupId>
-	<artifactId>thymeleafdemo</artifactId>
+	<artifactId>thymeleafdemo</artifactId> <!-- lookup parent from repository -->
 	<version>0.0.1-SNAPSHOT</version>
 	<name>thymeleafdemo</name>
 	<description>Demo project for Spring Boot</description>
